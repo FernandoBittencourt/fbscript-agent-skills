@@ -1,6 +1,6 @@
-# agent-skills
+# FBScript Agent Skills
 
-Portable [Agent Skills](https://agentskills.io) authored and curated by **[FBSCRIPT](https://fbscript.com.br)**.
+Portable [Agent Skills](https://agentskills.io) authored and curated by **[Fernando Bittencourt](https://github.com/FernandoBittencourt)**.
 
 This repository is **not** an aggregator of third-party skills. Every published skill is reviewed before merge.
 
